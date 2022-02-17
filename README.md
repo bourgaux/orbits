@@ -2,7 +2,7 @@
 
 ORBITS is a standalone tool for filtering answers that hold under a given inconsistency-tolerant semantics among AR, IAR and brave with standard repairs or Pareto- or completion-optimal repairs in the case where a priority relation between the conflicting facts is given. 
 ORBITS implements a variety of algorithms and propositional encoding variants for each semantics and type of repairs. 
-The description of the semantics, repair types, encoding variants and algorithms are given in a technical report that will be available soon. 
+The description of the semantics, repair types, encoding variants and algorithms are given in a technical report available on [arXiv](https://arxiv.org/abs/2202.07980). 
 Data used in the experimental evaluation of ORBITS is available on [Zenodo](https://zenodo.org/record/5947125) (DOI 10.5281/zenodo.5946827).
 
 ORBITS takes as input two JSON files containing respectively the conflict graph (directed by the priority relation) and the candidate answers associated to their causes. Examples of such files can be found in the directory `testInput`. 
