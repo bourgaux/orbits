@@ -1,0 +1,16 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: proceedings
+  authors:
+  - family-names: "Bienvenu"
+    given-names: "Meghyn"
+    orcid: "https://orcid.org/0000-0001-6229-8103"
+  - family-names: "Bourgaux"
+    given-names: "Camille"
+    orcid: "https://orcid.org/0000-0002-8806-6682"
+  doi: "10.24963/kr.2022/54"
+  journal: "Proceedings of the 19th International Conference on Principles of Knowledge Representation and Reasoning, KR 2022, Haifa, Israel. July 31 - August 5, 2022"
+  title: "Querying Inconsistent Prioritized Data with ORBITS: Algorithms, Implementation, and Experiments"
+  year: 2022
+ 
