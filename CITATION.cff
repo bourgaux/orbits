@@ -10,7 +10,7 @@ preferred-citation:
     given-names: "Camille"
     orcid: "https://orcid.org/0000-0002-8806-6682"
   doi: "10.24963/kr.2022/54"
-  journal: "Proceedings of the 19th International Conference on Principles of Knowledge Representation and Reasoning, KR 2022, Haifa, Israel. July 31 - August 5, 2022"
+  collection-title: "Proceedings of the 19th International Conference on Principles of Knowledge Representation and Reasoning, KR 2022, Haifa, Israel. July 31 - August 5, 2022"
   title: "Querying Inconsistent Prioritized Data with ORBITS: Algorithms, Implementation, and Experiments"
   year: 2022
  
